@@ -1,0 +1,14 @@
+*{
+    /*outline: solid red 2px;*/
+
+}
+a{
+    display: block;
+}
+body{
+    width: 1200px;
+    margin: auto;
+}
+.content{
+       margin: auto;
+}
